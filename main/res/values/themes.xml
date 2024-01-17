@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Base APP THEME -->
+    <style name="Theme.Titipin" parent="android:Theme.Material.Light.DarkActionBar" />
+    <!--Primary Color -->
+        <color name="colorPrimary">@color/main_color</color>
+        <color name="colorPrimaryVariant">@color/main_color</color>
+        <color name="colorOnPrimary">@color/white</color>
+    <!--Secondary Color -->
+        <color name="colorSecondary">@color/main_secondary</color>
+        <color name="colorSecondVariant">@color/main_secondary</color>
+        <color name="colorOnSecondary">@color/black</color>
+    <!--Status Bar Color -->
+
+    <!--Costum Theme -->
+        <color name="androidWindowBackground">@color/off_white</color>
+</resources>
